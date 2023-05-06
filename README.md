@@ -2,8 +2,11 @@
 Old Horde Source https://mordhau.old.mod.io/old-horde-source-files-included
 
 Download Zip. 
+
 Extract to \MORDHAUEditor\mordhau\Mods\
+
 Rename folder to "OldHorde" (remove the -main)
+
 Open Mordhau Editor and files will be inside.
 
 
