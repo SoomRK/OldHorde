@@ -1,7 +1,8 @@
 # OldHorde
-Old Horde Source https://mordhau.old.mod.io/old-horde-source-files-included
+# Old Horde Mod Page: 
+# https://mordhau.old.mod.io/old-horde-source-files-included
 
-Download Zip. 
+Download Zip from Github, (Click the green code button -> download zip) 
 
 Extract to \MORDHAUEditor\mordhau\Mods\
 
